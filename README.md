@@ -19,4 +19,5 @@
 
  - [X] Consultas no SAKILA
   - LIKE, MIN, MAX e ORDER BY.
+  - INNER JOIN.
 ---
